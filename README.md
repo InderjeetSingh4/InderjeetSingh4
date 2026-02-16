@@ -11,7 +11,7 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 +2
 
 
-# 💫 About Me:
+# About Me:
 🏡 From: Alwar, India<br>🎓 Education: B.Tech in AI & Data Science (Class of 2027)<br>🧑‍🎓 Profession: Student & Freelance Web Developer<br>👨‍💻 My Portfolio: inderjeet.online<br>👨‍💻 Currently working on: An OpenCV "Invisible Cloak" & Full-Stack Freelance Apps<br>🌱 Exploring: React, Supabase, OpenCV, and Generative AI<br>🤖 Building: Commercial data-tracking platforms and AI-assisted web solutions<br>🤝 Open to collaborating on: Freelance Web Development & Machine Learning Research<br>📫 Reach me at: theinderjeet52@gmail.com<br>📄 [View My Resume] <br>(https://drive.google.com/file/d/1BvynBA6M4QLlECahaVZlpJsdRWoBupC0/view?usp=drive_link)<br>⚡ Fun Fact: "Eat 🍜, Debug Python 🐛, Repeat 🔁"
 
 
