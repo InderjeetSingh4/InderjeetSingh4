@@ -162,7 +162,7 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 ### 🏆 Featured Project
 
 <div align="center">
-  <a href="https://github.com/InderjeetSingh4/invisible_cloak_web">
+  <a href="https://github.com/InderjeetSingh4/invisible_clock">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=InderjeetSingh4&repo=invisible_clock&theme=dark&show_owner=true" alt="Featured Repo" />
   </a>
 </div>
