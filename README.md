@@ -99,7 +99,7 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 * 🏡 **From:** Alwar, India
 * 🎓 **Education:** B.Tech in AI & Data Science (Completed 6th Sem)
 * 🧑‍🎓 **Profession:** Student & Freelance Web Developer
-* 👨‍💻 **My Portfolio: inderjeet.online
+* 👨‍💻 **My Portfolio**: inderjeet.online
 * 👨‍💻 **Currently working on:** Real-time AI Vision systems & Full-Stack client apps
 * 🌱 **Exploring:** React, Supabase, OpenCV, and Generative AI
 * 🤖 **Building:** Commercial data-tracking platforms and scalable backends
