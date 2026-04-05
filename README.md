@@ -6,17 +6,17 @@ h1 align="center">
   <img src="Resources/ban.png" width="100%" />
 </p>
 
-<h2 align="center">🚀 Data Analyst | Data Scientist | AI Enthusiast | AI Developer</h2>
+<h2 align="center">🚀 Data Analyst | Data Scientist | Web Developer</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChiragAvasthi&label=Profile+Views&color=brightgreen&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ChiragAvasthi?label=Followers&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/ChiragAvasthi?style=flat-square&logo=github&label=Stars" />
-  <a href="https://github.com/sponsors/ChiragAvasthi" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=InderjeetSingh4&label=Profile+Views&color=brightgreen&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/InderjeetSingh4?label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/stars/InderjeetSingh4?style=flat-square&logo=github&label=Stars" />
+  <a href="https://github.com/sponsors/InderjeetSingh4" target="_blank">
   <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor Badge"/>
 </a>
-  <a href="https://github.com/ChiragAvasthi">
-    <img src="https://badges.strrl.dev/commits/monthly/ChiragAvasthi?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/InderjeetSingh4">
+    <img src="https://badges.strrl.dev/commits/monthly/InderjeetSingh4?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
