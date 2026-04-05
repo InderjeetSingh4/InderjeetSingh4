@@ -78,9 +78,11 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 ---
 
 <p align="center">
   <i>"Writing code that scales, building systems that matter."</i>
 </p>
+
 ---
