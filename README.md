@@ -135,14 +135,14 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InderjeetSingh4&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=InderjeetSingh4&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InderjeetSingh4&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InderjeetSingh4&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InderjeetSingh4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InderjeetSingh4&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -153,6 +153,13 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InderjeetSingh4&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
+---
+
+<p align="center">
+  <i>"Writing code that scales, building systems that matter."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=InderjeetSingh4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 ---
 
 <p align="center">
