@@ -148,24 +148,10 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InderjeetSingh4&theme=dark&show_icons=true&hide_border=false&count_private=true&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InderjeetSingh4&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InderjeetSingh4&theme=dark&hide_border=false&layout=compact&v=1" alt="Top Languages" />
-</div>
-
 ---
-### 🏆 Featured Project
-
-<div align="center">
-  <a href="https://github.com/InderjeetSingh4/invisible_clock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=InderjeetSingh4&repo=invisible_clock&theme=dark&show_owner=true" alt="Featured Repo" />
-  </a>
-</div>
 
 ### 📈 Contribution Graph
 
@@ -173,7 +159,11 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=InderjeetSingh4&theme=react-dark&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
+---
 
+<p align="center">
+  <i>"Writing code that scales, building systems that matter."</i>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Snake Game Repo View -->
