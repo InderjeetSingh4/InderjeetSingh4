@@ -131,6 +131,9 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 📊 GitHub Analytics
 
@@ -146,6 +149,13 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
 </div>
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=InderjeetSingh4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=InderjeetSingh4&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 ### 📈 Contribution Graph
 
@@ -167,3 +177,12 @@ B.Tech AI & Data Science Student | Full-Stack Web Developer | AI Researcher
   <br><br>
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=InderjeetSingh4&icon=0&color=0" alt="Profile Views"/></a>
 </p>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
