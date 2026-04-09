@@ -1,9 +1,14 @@
 
 <img src="https://raw.githubusercontent.com/itsmeadarsh2008/itsmeadarsh2008/main/Banner/dark-blue.gif" alt="Coding Banner" width="100%">
 
-<div align="center">
-  <h1>Hi, I'm Inderjeet Singh 👋</h1>
-  ---
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" style="display: inline-block; vertical-align: left;" alt="Gif Image" /><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+I'm+Inderjeet+Singh!;🌐+AI+%7C+Data+%7C+Web+Development+Explorer;🚀+Data+%7C+Python+%7C+AI"/>
+</h1>
+
+<p align="center">
+  <img src="Resources/ban.png" width="100%" />
+</p>
+---
   
   <h3>B.Tech AI & Data Science | Full-Stack Web Developer | Freelancer</h3>
   
