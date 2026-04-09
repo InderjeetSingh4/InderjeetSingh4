@@ -6,7 +6,7 @@
 </h1>
 
 ---
-  
+  ![Banner](./github_readme_tech_banner.svg)
   <h3>B.Tech AI & Data Science | Full-Stack Web Developer | Freelancer</h3>
   
   <p>🚀 <b>Expertise:</b> Building commercial web applications and AI-driven solutions.</p>
