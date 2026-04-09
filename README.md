@@ -3,6 +3,8 @@
 
 <div align="center">
   <h1>Hi, I'm Inderjeet Singh 👋</h1>
+  ---
+  
   <h3>B.Tech AI & Data Science | Full-Stack Web Developer | Freelancer</h3>
   
   <p>🚀 <b>Expertise:</b> Building commercial web applications and AI-driven solutions.</p>
