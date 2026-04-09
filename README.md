@@ -6,8 +6,9 @@
 </h1>
 
 <p align="center">
-  <img src="Resources/ban.png" width="100%" />
+  <img src="![Banner](./github_readme_tech_banner.svg)" width="100%" />
 </p>
+
 ---
   
   <h3>B.Tech AI & Data Science | Full-Stack Web Developer | Freelancer</h3>
