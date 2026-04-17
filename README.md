@@ -76,6 +76,13 @@
 
 ---
 
+## 🔥 Language Usage 
+
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InderjeetSingh4&theme=dark&hide_border=false&layout=compact" height="180" width="400"> | <img src="https://github-contributor-stats.vercel.app/api?username=InderjeetSingh4&limit=5&theme=dark&combine_all_yearly_contributions=true" height="180" width="400"> |
+|:--:|:--:|
+
+---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
